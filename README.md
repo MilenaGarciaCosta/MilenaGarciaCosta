@@ -1,10 +1,14 @@
 👾 Hello world!
 ------------------
-I'm a tech enthusiast. I currently study analysis and systems development at ETEC. Since I've been studying there for 3 years, I had the chance to explore different technologies.  💌 e-mail: <milenagarcia.dev@gmail.com>
+I'm a tech enthusiast. I currently study analysis and systems development at ETEC. Since I've been studying there for 3 years, I had the chance to explore different technologies.
+<br/>
+💌 e-mail: <milenagarcia.dev@gmail.com>
 
 🚀 Expertise
 ---------------
-When I first started studying by my own, i focused on front-end development. I have extensive knowledge of HTML and CSS.  I love working on the front-end because it allows me to combine my skills of problem-solving and creativity to create efficient and kind user experiences.
+When I first started studying by my own, i focused on front-end development. I have extensive knowledge of HTML and CSS.
+<br/>
+I love working on the front-end because it allows me to combine my skills of problem-solving and creativity to create efficient and kind user experiences.
 
 💻 Stacks
 ------------

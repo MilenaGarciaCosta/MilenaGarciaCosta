@@ -1,4 +1,4 @@
-![gif1](https://media1.giphy.com/media/ygwYWMzryjq2ka87QY/giphy.gif?cid=6c09b9527ypp3mg3b4mg8fjwo2o88bdvnsbgpeun4tf5qv50&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s =100x100) Hello world!
+![gif1](https://media1.giphy.com/media/ygwYWMzryjq2ka87QY/giphy.gif?cid=6c09b9527ypp3mg3b4mg8fjwo2o88bdvnsbgpeun4tf5qv50&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s | width=100) Hello world!
 ------------------
 I'm a tech enthusiast. I currently study analysis and systems development at ETEC. Since I've been studying there for 3 years, I had the chance to explore different technologies.
 

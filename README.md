@@ -6,7 +6,7 @@ My name is Milena and I'm a systems development technician, currently a software
 
 👾 Expertise
 ---------------
-I intend to become a fullstack developer, but currently my main goal is to improve my front-end abilities. 
+I intend to become a fullstack developer, but currently my main goal is to improve my web development abilities. 
 I love working on the front-end because it allows me to combine my skills of problem-solving and creativity to create efficient, kind and accessible user experiences.
 
 🤖 Stacks

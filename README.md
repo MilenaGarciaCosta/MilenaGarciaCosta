@@ -1,6 +1,6 @@
 🪴 Hello world!
 ------------------
-My name is Milena and I'm a systems development technician, currently a software engineering student.
+My name is Milena and I'm a systems development technician, currently a software engineering student. My passion for technology, along with its constant evolution, increases my desire to learn new things to improve the efficiency and quality of everything I do.
 
 💌 e-mail: <milenagarcia.dev@gmail.com>
 

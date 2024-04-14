@@ -15,4 +15,5 @@ I love working on the front-end because it allows me to combine my skills of pro
 
 📊 GitHub stats
 ---------------
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaGarciaCosta&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaGarciaCosta&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MilenaGarciaCosta&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+

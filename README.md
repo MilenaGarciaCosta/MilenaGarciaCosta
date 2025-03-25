@@ -16,5 +16,4 @@ I love working on the front-end because it allows me to combine my skills of pro
 :octocat: GitHub stats
 ---------------
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaGarciaCosta&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/MilenaGarciaCostaDenverCoder1)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MilenaGarciaCosta&theme=city-lights&hide_border=true)](https://git.io/streak-stats)

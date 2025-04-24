@@ -5,7 +5,7 @@ I'm a systems development technician, currently a software engineering student. 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MilenaGarciaCosta&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MilenaGarciaCosta&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaGarciaCosta&layout=compact&hide_border=true&theme=radical" height="150" alt="languages graph"  />
 </div>
 

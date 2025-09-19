@@ -19,6 +19,6 @@ I'm a systems development technician and software engineering student. My passio
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Text&weight=500&size=30&pause=1000&color=76B677&multiline=true&repeat=false&width=435&lines=%E2%98%95%EF%B8%8E+Skills)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,mysql,py,selenium,django,html,css,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,java,spring,cs,mysql,py,selenium,django,html,css,tailwind)](https://skillicons.dev)
 
 ![Texto Alternativo](./github-user-contribution.svg)
